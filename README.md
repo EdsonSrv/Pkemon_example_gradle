@@ -4,6 +4,8 @@
 * Gradle 5.4.1
 * MySQL 8.0.17
 * jdk 1.8.0_211
+* Spring Boot
+* Flyway DB
 
 ### Time zone
 Set the MySQL time zone with:
