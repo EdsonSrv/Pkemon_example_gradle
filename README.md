@@ -1,4 +1,4 @@
-# Pokemon gradle example
+# Pokemon Rest API
 
 ## Use
 * Gradle 5.4.1
