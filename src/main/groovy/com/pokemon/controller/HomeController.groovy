@@ -5,13 +5,13 @@ import org.springframework.web.bind.annotation.*
 import org.springframework.web.servlet.ModelAndView
 
 @Controller
-@RequestMapping("/")
+@RequestMapping("/index")
 class HomeController {
 
   @GetMapping
   @ResponseBody
   ModelAndView home(){
-    new ModelAndView("redirect:/index")
+    new ModelAndView("index")
   }
 
 }
