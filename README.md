@@ -15,7 +15,7 @@ SET GLOBAL time_zone = '-3:00';
 
 ### Data example
 If tou want to test the API, you can insert the next
-´´´
+```
 INSERT INTO trainers VALUES (1, 'Red', 40), (2, 'Ash Ketchum', 10);
 
 INSERT INTO pokemon VALUES
@@ -25,4 +25,4 @@ INSERT INTO pokemon VALUES
 
 INSERT INTO wild_pokemon VALUES
 (1, 2000, 1, 1), (2, 2100, 4, 2), (7, 2000, 7, 1), (8, 600, 1, 2);
-´´´
+```
